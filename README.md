@@ -18,11 +18,19 @@ This project demonstrates **data cleaning, aggregation, visualization, and insig
 
 The dataset includes Netflix titles with the following attributes:
 
+- `show_id` – Unique identifier for each title  
+- `type` – Movie or TV Show  
 - `title` – Name of the show/movie  
+- `director` – Director(s) of the title  
+- `cast` – Main cast members  
 - `country` – Country of origin  
+- `date_added` – Date when added to Netflix  
 - `release_year` – Year of release  
+- `rating` – Content rating (e.g., PG-13, TV-MA)  
+- `duration` – Duration of the movie/TV show  
 - `listed_in` – Genre(s)  
-- `age_group` – Targeted audience  
+- `description` – Brief description of the content  
+ 
 
 ## Key Insights
 
